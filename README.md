@@ -2,9 +2,11 @@
 ## Contacts
 - LinkedIn: [@rajatgupta](https://www.linkedin.com/in/rajat-gupta-b86a58268/)
 - GitHub: [rajatgupta3121](https://github.com/rajatgupta3121)
+- Portfolio : [https://rajat-gupta-portfolio.netlify.app/]
 - Email: rajatgupta46300@gmail.com
 - Contact: +919794660840
 - Projects: https://github.com/rajatgupta3121
+  
 
 ## About
 Hi, I'm Rajat! I am a highly motivated and detail-oriented individual with a strong foundation in software development, data analysis, and machine learning. Currently pursuing a Bachelor's in Computer Applications (BCA) at Allenhouse Business School, Kanpur (2022-2025), I have gained experience in Python, SQL, Tableau, and machine learning techniques. My passion lies in leveraging data-driven insights to build innovative solutions and improve efficiency in a dynamic work environment.

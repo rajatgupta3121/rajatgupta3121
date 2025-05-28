@@ -15,11 +15,56 @@ With hands-on experience in AI chatbot development, market basket analysis, and 
 
 In my free time, I explore new technologies, contribute to open-source projects, and enhance my skills in AI, deep learning, and automation.
 
-My CV in [pdf](https://drive.google.com/file/d/1iKUtzgfKV1ax7gnVDRs_K1GPwcHtsG06/view?usp=sharing).
+My CV in [pdf](https://drive.google.com/file/d/1ULE_zbzsfRXgq4cGhQD7rlbTRbcSZpH_/view?usp=sharing).
 
 This repository showcases my skills, projects, and journey in Data Analytics, Software Development, and AI-driven solutions.
 
 ## Portfolio Projects
+
+### 🧠 AI Resume Analyzer & Job Matcher  
+
+**Goal**: Match resumes to job descriptions using NLP and generate personalized cover letters using GenAI.  
+
+**Description**:
+- Tokenized and semantically compared resumes with job descriptions.
+- Used **Google Gemini API** to auto-generate ATS-friendly cover letters.
+- Extracted data from PDFs and DOCX for parsing and matching.
+
+**Skills**:
+- Semantic Similarity
+- Resume Parsing
+- Generative AI Prompting
+
+**Technology**:
+- Python · Streamlit · Gemini API · Hugging Face
+
+**Results**:
+- Increased job compatibility scores.
+- Helped users improve application targeting.
+
+---
+
+### 📰 Real-Time News Summarizer & Sentiment Analyzer  
+
+**Goal**: Summarize breaking news in real-time and evaluate public sentiment.  
+
+**Description**:
+- Scraped live news data using `BeautifulSoup`.
+- Applied **BART Transformer** for summarization and **VADER** for sentiment.
+- Deployed with Hindi TTS for multilingual accessibility.
+
+**Skills**:
+- Web Scraping
+- NLP
+- Sentiment Analysis
+
+**Technology**:
+- Python · Hugging Face · Streamlit · gTTS
+
+**Results**:
+- Delivered interactive live news analysis app with multilingual output.
+
+---
 ### B2B Courier Charges Accuracy Analysis
 
 **Goal:** Analyzing and validating courier charges in a B2B setting to ensure invoice accuracy and cost optimization.
@@ -43,6 +88,8 @@ This repository showcases my skills, projects, and journey in Data Analytics, So
 - Identified incorrect courier charges and overcharges, saving up to 15% in logistics costs.
 - Improved invoicing accuracy and optimized courier billing processes.
 
+---
+
 ### Movie Recommendation System
 
 **Goal:** Developing a content-based recommendation system to suggest movies based on user preferences.
@@ -65,6 +112,8 @@ This repository showcases my skills, projects, and journey in Data Analytics, So
 - Achieved 85% accuracy in user preference matching.
 - Successfully deployed a web-based recommendation engine.
 
+---
+
 ### ChatGPT Review Analysis
 
 **Goal:**  Analyzing user feedback and performance trends of ChatGPT to understand sentiment distribution and areas for improvement.
@@ -77,6 +126,7 @@ This repository showcases my skills, projects, and journey in Data Analytics, So
 
 **Results:** Identified key trends in user satisfaction, recurring issues, and improvement areas based on review data.
 
+---
 ### Website Performance Analysis  
 
 **Goal:**  
@@ -96,8 +146,9 @@ This project involves data preprocessing, time series analysis, and data visuali
 **Results:**
 - Identified traffic trends and user engagement patterns.  
 - Analyzed relationships between key engagement metrics.  
-- Forecasted future session activity using the SARIMA model.  
-
+- Forecasted future session activity using the SARIMA model.
+  
+---
 ### Sales Dashboard Analysis  
 
 **Goal:**  
